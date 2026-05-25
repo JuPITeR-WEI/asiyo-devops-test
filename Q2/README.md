@@ -80,7 +80,7 @@ terraform/
 
 建立方式：
 
-```bash
+```
 terraform init
 
 terraform plan
@@ -175,7 +175,7 @@ k8s/
 
 部署方式：
 
-```bash
+```
 kubectl apply -f k8s/
 ```
 
@@ -259,25 +259,25 @@ kubectl apply -f k8s/
 
 查看 Cluster：
 
-```bash
+```
 kubectl get nodes
 ```
 
 查看服務：
 
-```bash
+```
 kubectl get svc
 ```
 
 查看 Pod：
 
-```bash
+```
 kubectl get pods -A
 ```
 
 查看 HPA：
 
-```bash
+```
 kubectl get hpa
 ```
 

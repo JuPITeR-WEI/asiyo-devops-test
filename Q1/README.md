@@ -12,7 +12,6 @@
 
 ```
 python3 find_top_word.py
-
 ```
 
 ---
