@@ -19,7 +19,6 @@
 流量進入流程：
 
 ```
-
 Internet
 ↓
 ALB / Ingress
@@ -31,7 +30,6 @@ Deployment (Application Pod)
 Persistent Volume Claim
 ↓
 Persistent Volume (EBS)
-
 ```
 
 資料庫架構：

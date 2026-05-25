@@ -10,6 +10,7 @@
 
 ## 排查流程
 
+```
 SSM
 ↓
 CloudWatch
@@ -19,6 +20,7 @@ Disk
 SSH
 ↓
 System
+```
 
 ---
 

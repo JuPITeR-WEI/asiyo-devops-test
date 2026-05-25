@@ -10,19 +10,17 @@
 
 ## 日誌架構
 
+```
 Application
 ↓
-
 Filebeat / FluentBit
 ↓
-
 Logstash
 ↓
-
 Elasticsearch
 ↓
-
 Kibana
+```
 
 ---
 
@@ -177,19 +175,17 @@ service-yyyy-mm
 
 完整流程：
 
+```
 收集
 ↓
-
 清洗
 ↓
-
 儲存
 ↓
-
 查詢
 ↓
-
 告警
+```
 
 同時兼顧：
 

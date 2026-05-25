@@ -17,6 +17,7 @@
 
 整體架構：
 
+```
 User
 ↓
 CDN
@@ -30,6 +31,7 @@ Application Cluster
 Cache
 ↓
 Database
+```
 
 ---
 
