@@ -18,8 +18,8 @@ Kibana
 
 ### 考量：
 
-    - index lifecycle
-    - retention
-    - masking
-    - schema
-    - alert
+- index lifecycle
+- retention
+- masking
+- schema
+- alert
